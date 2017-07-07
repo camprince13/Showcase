@@ -1,8 +1,7 @@
-# A group of showcased projects 
+--A group of showcased projects 
 
-# C#
-
- - A group of personal projects I did when I was attempting to learn a new concept
+---C#
+ - A group of personal projects I did when I was attempting to learn new concepts, or to achieve a specific goal
 
 BaseNumCalc - Converts a given number into multiple base forms
 
@@ -20,7 +19,8 @@ SMS_Test3 - a test application I made to see if I could text a cellphone using a
 
 
 
-# Python - A group of projects I did when I was learning python on my own
+---Python 
+- A group of projects I did when I was learning python on my own
 
 009VigenereEncrypt - Grabs data from a file and applies the data to the vigenere cipher, then writes the encrypted data to a new file
 
@@ -31,7 +31,8 @@ SMS_Test3 - a test application I made to see if I could text a cellphone using a
 099SudokuPeps - A later version of 099Sudoku that follows most of the pep8 python coding standards
 
 
-# Group - The group projects I worked on in college
+---Group 
+- The group projects I worked on in college
 
 College Capstone - Super Smash Bros Stat Tracker (info in folder)
 
