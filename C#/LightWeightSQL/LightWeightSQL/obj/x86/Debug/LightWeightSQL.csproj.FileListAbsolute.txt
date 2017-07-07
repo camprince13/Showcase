@@ -1,0 +1,16 @@
+E:\APP_Dev_Self\LightWeightSQL\LightWeightSQL\LightWeightSQL\bin\Debug\LightWeightSQL.exe
+E:\APP_Dev_Self\LightWeightSQL\LightWeightSQL\LightWeightSQL\bin\Debug\LightWeightSQL.pdb
+E:\APP_Dev_Self\LightWeightSQL\LightWeightSQL\LightWeightSQL\obj\x86\Debug\LightWeightSQL.csprojResolveAssemblyReference.cache
+E:\APP_Dev_Self\LightWeightSQL\LightWeightSQL\LightWeightSQL\obj\x86\Debug\LightWeightSQL.Form1.resources
+E:\APP_Dev_Self\LightWeightSQL\LightWeightSQL\LightWeightSQL\obj\x86\Debug\LightWeightSQL.Properties.Resources.resources
+E:\APP_Dev_Self\LightWeightSQL\LightWeightSQL\LightWeightSQL\obj\x86\Debug\LightWeightSQL.csproj.GenerateResource.Cache
+E:\APP_Dev_Self\LightWeightSQL\LightWeightSQL\LightWeightSQL\obj\x86\Debug\LightWeightSQL.exe
+E:\APP_Dev_Self\LightWeightSQL\LightWeightSQL\LightWeightSQL\obj\x86\Debug\LightWeightSQL.pdb
+G:\Downloads_Need_to_sort\pix\11TMP\work_pers\LightWeightSQL\LightWeightSQL\obj\x86\Debug\LightWeightSQL.exe
+G:\Downloads_Need_to_sort\pix\11TMP\work_pers\LightWeightSQL\LightWeightSQL\obj\x86\Debug\LightWeightSQL.pdb
+G:\Downloads_Need_to_sort\pix\11TMP\work_pers\LightWeightSQL\LightWeightSQL\bin\Debug\LightWeightSQL.exe
+G:\Downloads_Need_to_sort\pix\11TMP\work_pers\LightWeightSQL\LightWeightSQL\bin\Debug\LightWeightSQL.pdb
+G:\Downloads_Need_to_sort\pix\11TMP\work_pers\LightWeightSQL\LightWeightSQL\obj\x86\Debug\LightWeightSQL.csprojResolveAssemblyReference.cache
+G:\Downloads_Need_to_sort\pix\11TMP\work_pers\LightWeightSQL\LightWeightSQL\obj\x86\Debug\LightWeightSQL.Form1.resources
+G:\Downloads_Need_to_sort\pix\11TMP\work_pers\LightWeightSQL\LightWeightSQL\obj\x86\Debug\LightWeightSQL.Properties.Resources.resources
+G:\Downloads_Need_to_sort\pix\11TMP\work_pers\LightWeightSQL\LightWeightSQL\obj\x86\Debug\LightWeightSQL.csproj.GenerateResource.Cache

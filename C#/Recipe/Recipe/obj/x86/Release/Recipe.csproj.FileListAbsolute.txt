@@ -1,0 +1,16 @@
+C:\Users\Cameron\Documents\Visual Studio 2010\Projects\RecProg\Recipe\Recipe\Recipe\obj\x86\Release\Recipe.Form1.resources
+C:\Users\Cameron\Documents\Visual Studio 2010\Projects\RecProg\Recipe\Recipe\Recipe\obj\x86\Release\Recipe.NewRec.resources
+C:\Users\Cameron\Documents\Visual Studio 2010\Projects\RecProg\Recipe\Recipe\Recipe\obj\x86\Release\Recipe.Properties.Resources.resources
+C:\Users\Cameron\Documents\Visual Studio 2010\Projects\RecProg\Recipe\Recipe\Recipe\obj\x86\Release\Recipe.Search.resources
+C:\Users\Cameron\Documents\Visual Studio 2010\Projects\RecProg\Recipe\Recipe\Recipe\obj\x86\Release\Recipe.csproj.GenerateResource.Cache
+C:\Users\Cameron\Documents\Visual Studio 2010\Projects\RecProg\Recipe\Recipe\Recipe\bin\Release\Recipe.exe
+C:\Users\Cameron\Documents\Visual Studio 2010\Projects\RecProg\Recipe\Recipe\Recipe\bin\Release\Recipe.pdb
+C:\Users\Cameron\Documents\Visual Studio 2010\Projects\RecProg\Recipe\Recipe\Recipe\obj\x86\Release\Recipe.exe
+C:\Users\Cameron\Documents\Visual Studio 2010\Projects\RecProg\Recipe\Recipe\Recipe\obj\x86\Release\Recipe.pdb
+C:\Users\Cameron\Documents\Visual Studio 2010\Projects\RecProg\Recipe\Recipe\Recipe\obj\x86\Release\Interop.ADOX.dll
+C:\Users\Cameron\Documents\Visual Studio 2010\Projects\RecProg\Recipe\Recipe\Recipe\obj\x86\Release\Recipe.csproj.ResolveComReference.cache
+C:\Users\Cameron\Documents\Visual Studio 2010\Projects\RecProg\Recipe\Recipe\Recipe\bin\Release\000_Decrypt.dll
+C:\Users\Cameron\Documents\Visual Studio 2010\Projects\RecProg\Recipe\Recipe\Recipe\bin\Release\001_encrypt.dll
+C:\Users\Cameron\Documents\Visual Studio 2010\Projects\RecProg\Recipe\Recipe\Recipe\obj\x86\Release\Recipe.csprojResolveAssemblyReference.cache
+C:\Users\Cameron\Documents\Visual Studio 2010\Projects\RecProg\Recipe\Recipe\Recipe\obj\x86\Release\Recipe.KeyValidation.resources
+C:\Users\Cameron\Documents\Visual Studio 2010\Projects\RecProg\Recipe\Recipe\Recipe\obj\x86\Release\Recipe.Settings.resources

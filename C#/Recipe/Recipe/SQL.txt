@@ -1,0 +1,23 @@
+﻿keys
+
+
+000000 - xxxxx - 00xxxx
+
+nums - decry - valNum/uniqueKey
+
+
+First set [6]
+
+2nd = 1st + 3
+
+2nd Set[decryption key] // Might not be needed
+
+3rd Set[2 nums, uniqueKey]
+
+1st = [set 1 even nums / 3]
+2nd = [set 1 odds nums / 3]
+
+000000 - 00xxxx
+252525 - 25XXXX
+
+1 4 9 4 2 7  -  6 5 XXXX

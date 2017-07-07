@@ -1,0 +1,25 @@
+﻿CREATE TABLE RecipeTable (
+id int NOT NULL IDENTITY,
+rName nvarchar(50),
+rDesc nvarchar(100),
+type nvarchar(50),
+ingr nvarchar(200),
+recipe nvarchar(2000),
+notes nvarchar(200),
+favorite bit,
+PRIMARY KEY (id)
+);
+
+
+
+CREATE TABLE Table1
+(
+    [ID] AUTOINCREMENT,
+    [Email] TEXT(255),
+    [ProductID] INTEGER,
+    [DateCreate] DATETIME,
+    [DateSend] DATETIME
+);
+
+
+CREATE TABLE RecipeTable ([id] AUTOINCREMENT NOT NULL, [rName] text(50), [rDesc] text(100), [type] text(50), [ingr] memo, [recipe] memo, [notes] memo, [favorite] BIT, PRIMARY KEY (id));

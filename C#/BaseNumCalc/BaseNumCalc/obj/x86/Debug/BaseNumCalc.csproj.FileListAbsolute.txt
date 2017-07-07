@@ -1,0 +1,7 @@
+C:\Users\Carl\Desktop\proj\BaseNums\BaseNumCalc\BaseNumCalc\bin\Debug\BaseNumCalc.exe
+C:\Users\Carl\Desktop\proj\BaseNums\BaseNumCalc\BaseNumCalc\bin\Debug\BaseNumCalc.pdb
+C:\Users\Carl\Desktop\proj\BaseNums\BaseNumCalc\BaseNumCalc\obj\x86\Debug\BaseNumCalc.Form1.resources
+C:\Users\Carl\Desktop\proj\BaseNums\BaseNumCalc\BaseNumCalc\obj\x86\Debug\BaseNumCalc.Properties.Resources.resources
+C:\Users\Carl\Desktop\proj\BaseNums\BaseNumCalc\BaseNumCalc\obj\x86\Debug\BaseNumCalc.csproj.GenerateResource.Cache
+C:\Users\Carl\Desktop\proj\BaseNums\BaseNumCalc\BaseNumCalc\obj\x86\Debug\BaseNumCalc.exe
+C:\Users\Carl\Desktop\proj\BaseNums\BaseNumCalc\BaseNumCalc\obj\x86\Debug\BaseNumCalc.pdb

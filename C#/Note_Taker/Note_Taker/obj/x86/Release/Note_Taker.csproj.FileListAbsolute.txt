@@ -1,0 +1,7 @@
+E:\APP_Dev_Self\Note_Taker\Note_Taker\Note_Taker\bin\Release\Note_Taker.exe
+E:\APP_Dev_Self\Note_Taker\Note_Taker\Note_Taker\bin\Release\Note_Taker.pdb
+E:\APP_Dev_Self\Note_Taker\Note_Taker\Note_Taker\obj\x86\Release\Note_Taker.Form1.resources
+E:\APP_Dev_Self\Note_Taker\Note_Taker\Note_Taker\obj\x86\Release\Note_Taker.Properties.Resources.resources
+E:\APP_Dev_Self\Note_Taker\Note_Taker\Note_Taker\obj\x86\Release\Note_Taker.csproj.GenerateResource.Cache
+E:\APP_Dev_Self\Note_Taker\Note_Taker\Note_Taker\obj\x86\Release\Note_Taker.exe
+E:\APP_Dev_Self\Note_Taker\Note_Taker\Note_Taker\obj\x86\Release\Note_Taker.pdb

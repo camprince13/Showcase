@@ -1,0 +1,31 @@
+﻿C					Set
+R					Set
+U					Set
+D					Set
+Forms				Set
+DB & classes		Set
+search				Set
+
+DataBase Creation	Set
+	Backup			-Under Setting
+	Reset			-Under Settings
+
+Validation			Set
+
+Key valdation			Set
+	key validation file Set
+
+Find way to del old pics.
+	Read all names? - Del all not in?
+	Cleanup setting?
+
+Recreate database	Set
+Settings
+	Show key	-
+	Kill DB		-
+	Backup DB	-
+		To
+			File?
+			Email?
+
+			Tasks 12/16	-	75%

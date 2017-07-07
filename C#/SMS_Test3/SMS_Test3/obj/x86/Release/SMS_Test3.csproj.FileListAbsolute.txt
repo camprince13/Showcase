@@ -1,0 +1,7 @@
+E:\BCO\SMS_Test3\SMS_Test3\bin\Release\SMS_Test3.exe
+E:\BCO\SMS_Test3\SMS_Test3\bin\Release\SMS_Test3.pdb
+E:\BCO\SMS_Test3\SMS_Test3\obj\x86\Release\SMS_Test3.Form1.resources
+E:\BCO\SMS_Test3\SMS_Test3\obj\x86\Release\SMS_Test3.Properties.Resources.resources
+E:\BCO\SMS_Test3\SMS_Test3\obj\x86\Release\SMS_Test3.csproj.GenerateResource.Cache
+E:\BCO\SMS_Test3\SMS_Test3\obj\x86\Release\SMS_Test3.exe
+E:\BCO\SMS_Test3\SMS_Test3\obj\x86\Release\SMS_Test3.pdb
